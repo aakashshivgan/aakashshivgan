@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aakashshivgan
+- 👋 Hi, I’m Aakash shivgan
 - 👀 I’m interested in ...Mobile App Development
 - 🌱 I’m currently learning ...Flutter and Dart
 - 📫 How to reach me at www.linkedin.com/in/akashshivgan
