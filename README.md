@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aakash shivgan
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning lutter and Dart
+- 🌱 I’m currently learning Futter and Dart
 - 📫 How to reach me at www.linkedin.com/in/akashshivgan , aakashshivgan7739@gmail.com
 
 <!---
