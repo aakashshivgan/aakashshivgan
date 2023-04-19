@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in Skygoal Inc<br>🌱 I’m currently learning Flutter and Dart<br>
+<br>🌱 I’m currently learning Flutter and Dart<br>
 
 
 # 💻 Tech Stack:
